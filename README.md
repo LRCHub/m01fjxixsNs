@@ -1,0 +1,70 @@
+# Suchmos – GIRL（feat. Ryohu）
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:00.08] Hey girl
+[00:04.08] 
+[00:22.76] Hey girl she is a single eye
+[00:25.62] 寄り道しなって
+[00:32.51] Hey girl she is a charming woman
+[00:35.55] But too young to marry
+[00:46.55] 
+[00:42.35] Come together day and night
+[00:47.39] Come together day and night
+[01:00.89] 
+[00:52.15] 返答が聞こえないそれじゃわからない
+[00:57.89] まるで笑えない
+[01:02.12] 感慨深く相当響く
+[01:07.28] どうぞ一度確かめて
+[01:11.78] 
+[01:11.84] Come together day and night
+[01:17.08] Come together day-day-day-day and night
+[01:36.58] 
+[01:22.05] 酔いの中で Join you 噛み合う訳ない
+[01:27.63] まるで語れない
+[01:31.87] 感慨深く相当キテる
+[01:36.67] どうぞ2度目確かめて
+[01:41.67] 
+[01:41.85] Hold on, hold on, hold on, hold on, hold on, hold on, hold on, hold on
+[01:51.77] Hold on, hold on, hold on, hold on, hold on, hold on, hold on
+[02:22.27] 
+[02:01.56] Hey girl she is a single eye
+[02:04.65] 寄り道しなって
+[02:11.56] Hey girl she is a charming woman
+[02:14.52] But too young to marry
+[02:25.52] 
+[02:21.09] 間を開けて頂こう Freeな時間を少しだけ
+[02:30.83] Did you really need me?
+[02:33.35] 交渉のように どうぞ一度確かめたい
+[02:41.85] 
+[02:41.24] Hold on, hold on, hold on, hold on, hold on, hold on, hold on, hold on
+[02:51.28] Hold on, hold on, hold on, hold on, hold on, hold on, hold on, hold on
+[03:00.94] Hold on, hold on, hold on, hold on, hold on, hold on, hold on, hold on
+[03:10.83] Hold on, hold on, hold on, hold on, hold on, hold on, hold on, hold on
+[03:45.83] 
+[03:21.14] Hey girl 見な オレの目は今君しか見えてない
+[03:24.80] Baby rum 飲み干す Eyery night
+[03:27.28] Neon light 甘い時を照らす
+[03:29.77] そろそろ帰る時間だろ
+[03:32.22] LOVE is one in da mellow
+[03:34.93] 2人だけのピアノソロ c'mon let's get it on
+[03:39.52] Shyなハートに火をつけるオレはバーナー
+[03:42.31] タイクじゃないぜ 君はティナターナー
+[03:45.19] Look オレの目を見ろ
+[03:47.21] 気づけば触れる肌 距離は0
+[03:49.83] 感じてくれよさあオレのように
+[03:52.27] あなたと同じように I'm fellin' it
+[03:55.15] Yeah (hey girl)
+[03:56.92] 幕が下りても2人は見つめ合う Baby girl
+[04:08.92] 
+[04:00.32] Hey girl she is a single eye
+[04:03.68] 寄り道しなって (ride one ride on)
+[04:10.29] Hey girl she is a charming woman
+[04:13.40] But too young to marry (ride one ride on)
+[04:33.90] 
+[04:20.34] Hey girl she is a single eye
+[04:23.26] 寄り道しなって
+[04:30.06] Hey girl she is a charming woman
+[04:33.39] But too young to marry
+```
