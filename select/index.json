@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "GIRL（feat. Ryohu）",
+  "base_artist": "Suchmos",
+  "createdAt": "2026-02-06T10:11:58.543905Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "GIRL (feat. Ryohu)",
+      "artist": "Suchmos",
+      "has_synced": true,
+      "path": "select/01_GIRL_(feat._Ryohu)_Suchmos.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "GIRL feat. Ryohu",
+      "artist": "Suchmos",
+      "has_synced": false,
+      "path": "select/02_GIRL_feat._Ryohu_Suchmos.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "GIRL FEAT.呂布",
+      "artist": "Suchmos",
+      "has_synced": false,
+      "path": "select/pl_01_GIRL_FEAT.呂布_Suchmos.txt"
+    }
+  ]
+}
